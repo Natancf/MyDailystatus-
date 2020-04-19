@@ -123,7 +123,16 @@ const Index = () => {
       lineNumber: 6,
       columnNumber: 9
     }
-  }, "Home"));
+  }, "Home"), __jsx("a", {
+    href: "/api/login",
+    className: "py-4 px-2 rounded bg-pink-800 font-bold shadow-xl hover:shadow text-white block w-1/4 text-center text-xl mx-auto",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7,
+      columnNumber: 9
+    }
+  }, "comece por aqui"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
